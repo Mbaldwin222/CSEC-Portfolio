@@ -25,11 +25,11 @@ Conducted a full internal security audit for Botium Toys, a fictional U.S. toy c
 - Deploy intrusion detection/prevention systems and conduct ongoing security awareness training.
 
 **Deliverables Included in this Repository**:  
-- Controls and compliance checklist.pdf  
+- [Controls and compliance checklist.pdf]  
 - Risk Assessment Summary & Recommendations
 
 **Key Learnings**:
 Gained practical experience performing an internal security audit, identifying control gaps, and recommending improvements to support business operations and regulatory compliance.
 
 **Status**: Completed as part of Google Cybersecurity Professional Certificate
-Controls and compliance checklist.pdf
+
