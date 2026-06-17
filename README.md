@@ -24,9 +24,8 @@ Conducted a full internal security audit for Botium Toys, a fictional U.S. toy c
 - Establish regular backup processes and a tested disaster recovery plan.  
 - Deploy intrusion detection/prevention systems and conduct ongoing security awareness training.
 
-**Deliverables Included in this Repository**:  
-- [Controls and compliance checklist.pdf]  
-- Risk Assessment Summary & Recommendations
+**Deliverables**:  
+- [Controls and Compliance Checklist (PDF)](Controls and compliance checklist.pdf)
 
 **Key Learnings**:
 Gained practical experience performing an internal security audit, identifying control gaps, and recommending improvements to support business operations and regulatory compliance.
