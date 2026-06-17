@@ -2,7 +2,8 @@
 ## About Me
 Aspiring Cybersecurity Analyst currently completing the Google Cybersecurity Professional Certificate. 
 
-I have over 12 years of operations and leadership experience managing teams, scheduling, and coordinating complex processes in high-pressure environments. I’m making a focused career transition into cybersecurity because I’m passionate about protecting systems, detecting threats, and helping organizations stay secure. I’m a quick learner who takes pride in doing things the right way.## Google Cybersecurity Certificate Projects
+I have over 12 years of operations and leadership experience managing teams, scheduling, and coordinating complex processes in high-pressure environments. I’m making a focused career transition into cybersecurity because I’m passionate about protecting systems, detecting threats, and helping organizations stay secure. I’m a quick learner who takes pride in doing things the right way.
+## Google Cybersecurity Certificate Projects
 ### Project 1: Botium Toys Internal Security Audit
 **Description**:
 Conducted a full internal security audit for Botium Toys, a fictional U.S. toy company. Reviewed the company’s assets, risks, and current security posture, then completed a controls and compliance checklist using the NIST Cybersecurity Framework.
