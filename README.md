@@ -7,6 +7,7 @@ I have over 12 years of operations and leadership experience managing teams, sch
 ### Project 1: Botium Toys Internal Security Audit
 **Description**:
 Conducted a full internal security audit for Botium Toys, a fictional U.S. toy company. Reviewed the company’s assets, risks, and current security posture, then completed a controls and compliance checklist using the NIST Cybersecurity Framework.
+
 **Deliverables Included in this Repository:**
 - Completed Controls and Compliance Checklist
 - Risk Assessment Summary & Recommendations
