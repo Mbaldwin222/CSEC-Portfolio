@@ -10,7 +10,7 @@ The transition connects directly to what drove my growth at FedEx. I asked to le
 
 - NIST Cybersecurity Framework (CSF)
 - Google Workspace, Salesforce, SAP Business Objects
-- Security auditing, risk assessment, compliance, access controls, incident response (in progress)
+- Security auditing, risk assessment, compliance, access controls, incident response
 - Google Project Management Professional Certificate (2023)
 - Google Cybersecurity Professional Certificate (in progress)
 
@@ -51,10 +51,43 @@ Internal security auditing, control gap analysis, NIST Cybersecurity Framework, 
 **Status**
 Completed, Google Cybersecurity Professional Certificate, Course 1
 
+---
+
+### Project 2: NIST CSF Incident Response Exercise
+
+**Description**
+A multimedia company offering web design, graphic design, and social media marketing experienced a DoS attack that took down their internal network for two hours. A threat actor sent a flood of ICMP pings through an unconfigured firewall, preventing all internal network traffic from accessing any network resources. The incident management team responded by blocking incoming ICMP packets, taking non-critical services offline, and restoring critical services. Using the NIST Cybersecurity Framework, this exercise involved analyzing the incident across all five CSF functions and developing an improvement plan.
+
+**Supporting Documents**
+- [Incident Report Analysis](Incident%20report%20analysis.pdf)
+
+**Incident Analysis**
+
+**Identify**
+A malicious actor targeted the company with an ICMP flood attack through an unconfigured firewall. The entire internal network was affected and all critical network resources needed to be secured and restored.
+
+**Protect**
+A new firewall rule was implemented to limit the rate of incoming ICMP packets. An IDS/IPS system was put in place to filter ICMP traffic based on suspicious characteristics.
+
+**Detect**
+Source IP address verification was configured on the firewall to check for spoofed IP addresses. Network monitoring software was installed to detect abnormal traffic patterns in real time.
+
+**Respond**
+The team blocked incoming ICMP packets and took non-critical network services offline to reduce internal traffic while critical services were restored. For future incidents, the response plan includes isolating affected systems, restoring critical services first, analyzing network logs for suspicious activity, and reporting to management and legal authorities if applicable.
+
+**Recover**
+External ICMP flood attacks can be blocked at the firewall. Non-critical services should be stopped first to reduce internal network traffic, then critical services restored. Once the ICMP flood times out, non-critical systems can be brought back online.
+
+**Skills Applied**
+NIST Cybersecurity Framework, incident response analysis, network security, DoS attack identification, firewall configuration concepts, IDS/IPS systems
+
+**Status**
+Completed, Google Cybersecurity Professional Certificate, Course 3
+
 ## In Progress
 
-**Project 2: NIST CSF Incident Response Exercise**
-Currently completing a hands-on incident response exercise applying the NIST Cybersecurity Framework to a real-world security scenario. Part of Google Cybersecurity Professional Certificate, Course 3.
+**Project 3: Tools of the Trade: Linux and SQL**
+Currently completing Course 4 of the Google Cybersecurity Professional Certificate, focusing on Linux command line and SQL for cybersecurity applications.
 
 ## Contact
 - LinkedIn: linkedin.com/in/martel-baldwin-35081a240
