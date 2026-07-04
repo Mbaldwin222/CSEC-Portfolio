@@ -78,6 +78,11 @@ The team blocked incoming ICMP packets and took non-critical network services of
 **Recover**
 External ICMP flood attacks can be blocked at the firewall. Non-critical services should be stopped first to reduce internal network traffic, then critical services restored. Once the ICMP flood times out, non-critical systems can be brought back online.
 
+**My Approach**
+The most confusing part was separating Protect from Detect. I got confused because the firewall and the IDS/IPS system both deal with ICMP traffic but do different things. Once it was broken down, Protect was about blocking things from getting in and Detect was about watching for things and flagging them.
+
+When I compared my answers to the exemplar, I had some items switched between Protect and Detect. I also did not include a future response plan under Respond, I only wrote about what already happened during the incident. Everything I used for my answers came from the scenario itself.
+
 **Skills Applied**
 NIST Cybersecurity Framework, incident response analysis, network security, DoS attack identification, firewall configuration concepts, IDS/IPS systems
 
